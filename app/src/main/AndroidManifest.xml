@@ -22,6 +22,12 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:label="@string/stock_detail"
+            android:name=".ui.StockDetailActivity"
+            android:parentActivityName=".ui.MainActivity"
+            android:screenOrientation="portrait" />
+
         <service
             android:name=".sync.QuoteIntentService"
             android:exported="false" />
