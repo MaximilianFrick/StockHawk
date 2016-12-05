@@ -36,5 +36,6 @@
     <string name="toast_no_connectivity">Will refresh when network available.</string>
     <string name="content_description_add_stock">Add Stock</string>
     <string name="stock_detail">Stockhawk Detail</string>
+    <string name="no_data">No Data</string>
 
 </resources>
