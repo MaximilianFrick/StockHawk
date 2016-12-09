@@ -1,9 +1,8 @@
 # StockHawk
-Udacity Nanodegree Android
-Project 3
+Third project of Android Developer Nanodegree course (Udacity).
 With this application you can track Stocks, add new ones and get a detailed information about the prices over time.
 
-This project was all about refactoring and improving existing code from Udacity course.
+This project is all about refactoring and improving existing code from Udacity course.
 
 ## Contents
 * Adding a detail view with displaying a graph of given data
