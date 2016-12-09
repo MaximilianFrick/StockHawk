@@ -9,7 +9,7 @@ This project is all about refactoring and improving existing code from Udacity c
 * Adding a widget to display information 
 * Improving app regarding Accessibility issues
 * Removing crashes
-* Supporting multiple languages
+* Supporting multiple languages as well as a Right-to-Left screen orientation
 
 ## Screenshots
 <img width="20%" src="https://cloud.githubusercontent.com/assets/4439173/21055805/34d5e6e4-be33-11e6-935b-b7ae66303057.png" />
